@@ -1,0 +1,37 @@
+{
+    "Items":
+    [
+        {"id": 1, "category": "Photo books", "thumbnail": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/1/about.jpg"},
+        {"id": 2, "category": "Costume stuffs", "thumbnail": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/2/about.jpg"}
+        
+    ],
+
+    "Cart":
+    [
+
+    ],
+
+    "Orders":
+    [
+
+    ],
+    
+    "Books":
+    [
+        {"id": 1, "name": "tree and flower 1", "amount": 6, "price": 2.00, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/1/"},
+        {"id": 2, "name": "tree and flower 2", "amount": 5, "price": 2.00, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/2/"},
+        {"id": 3, "name": "tree and flower 3", "amount": 11, "price": 3.50, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/3/"},
+        {"id": 4, "name": "tree and flower 4", "amount": 5, "price": 2.00, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/4/"},
+        {"id": 5, "name": "tree and flower 5", "amount": 10, "price": 4.00, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/5/"}
+    ], 
+
+    "Costume":
+    [ 
+        {"id": 1, "name": "tree and flower 1", "amount": 6, "price": 2.00, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/1/"},
+        {"id": 2, "name": "tree and flower 2", "amount": 5, "price": 2.00, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/2/"},
+        {"id": 3, "name": "tree and flower 3", "amount": 11, "price": 3.50, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/3/"},
+        {"id": 4, "name": "tree and flower 4", "amount": 5, "price": 2.00, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/4/"},
+        {"id": 5, "name": "tree and flower 5", "amount": 10, "price": 4.00, "source": "https://raw.githubusercontent.com/nguyenvnbrtd/GirlAndCosplay/master/album/5/"}
+    ]
+    
+}
